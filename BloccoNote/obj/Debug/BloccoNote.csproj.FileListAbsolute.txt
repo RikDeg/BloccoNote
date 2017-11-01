@@ -1,0 +1,13 @@
+D:\Programmazione\BloccoNote\BloccoNote\bin\Debug\BloccoNote.exe.config
+D:\Programmazione\BloccoNote\BloccoNote\bin\Debug\BloccoNote.exe
+D:\Programmazione\BloccoNote\BloccoNote\bin\Debug\BloccoNote.pdb
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.csprojResolveAssemblyReference.cache
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.Properties.Resources.resources
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.csproj.GenerateResource.Cache
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.exe
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.pdb
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.Home.resources
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.Impostazioni.resources
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.Nota.resources
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.usrCtrlEditText.resources
+D:\Programmazione\BloccoNote\BloccoNote\obj\Debug\BloccoNote.nuovaNota.resources
